@@ -1,0 +1,10 @@
+C:\Users\W10Home\Desktop\DrawChatServer-master\DrawingServer\bin\Debug\DrawingServer.exe.config
+C:\Users\W10Home\Desktop\DrawChatServer-master\DrawingServer\bin\Debug\DrawingServer.exe
+C:\Users\W10Home\Desktop\DrawChatServer-master\DrawingServer\bin\Debug\DrawingServer.pdb
+C:\Users\W10Home\Desktop\DrawChatServer-master\DrawingServer\obj\Debug\DrawingServer.csprojAssemblyReference.cache
+C:\Users\W10Home\Desktop\DrawChatServer-master\DrawingServer\obj\Debug\DrawingServer.csproj.CoreCompileInputs.cache
+C:\Users\W10Home\Desktop\DrawChatServer-master\DrawingServer\obj\Debug\DrawingServer.exe
+C:\Users\W10Home\Desktop\DrawChatServer-master\DrawingServer\obj\Debug\DrawingServer.pdb
+C:\Users\W10Home\Desktop\DrawChatServer-master\DrawingServer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\W10Home\Desktop\DrawChatServer-master\DrawingServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\W10Home\Desktop\DrawChatServer-master\DrawingServer\obj\Debug\DrawingServer.csproj.CopyComplete
